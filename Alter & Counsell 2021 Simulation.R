@@ -10,7 +10,7 @@ mu <- c(0,0,0,0,0)
 
 
 # calling on functions for the difference-based (traditional NHST), TOST, and AH tests.
-source('Alter-Counsell-2021-test-functions.R')
+source('Alter-Counsell-2022-test-functions.R')
 ##### Design ##### 
 
 Design <- createDesign(N = c(50, 75, 100, 250, 500, 1000),
